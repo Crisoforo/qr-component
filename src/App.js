@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <Card
-      title='Improve your front-end skills by building projects'
-      body='Scan the QR code to visit Frontend Mentor and take your coding skills to the next level'
+      title='Spotify Code Card: Scan to listen'
+      body='Open Spotify on your mobile phone. Go to search. Open the camera and scan the code'
        />
     </div>
   );

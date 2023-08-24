@@ -28,8 +28,7 @@ body {
 
 .image-container img {
   overflow: hidden;
-  height: 375px;
-  border-radius: 4%;
+  width: 100%;
 }
 
 .card-content {

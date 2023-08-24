@@ -1,5 +1,5 @@
 import React from 'react';
-import QR from '../images/image-qr-code.png';
+import QR from '../images/image-qr-code.jpeg';
 import './Card.css';
 
 function Card({title, body}) {
