@@ -4,7 +4,7 @@ import './Card.css';
 
 function Card({title, body}) {
   return (
-    <div className='container'>
+    <div className='container col-xxl-12'>
     <div className= 'card-container'>
       <div className='image-container'>
         <img src={QR} alt="My QR" />
