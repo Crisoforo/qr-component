@@ -23,6 +23,7 @@ body {
 
 .card-container:hover {
   transform: scale(1.1);
+  cursor: pointer;
 }
 
 .image-container img {
